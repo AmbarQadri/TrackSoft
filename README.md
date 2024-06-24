@@ -20,7 +20,6 @@ TrackSoft is an employee monitoring system designed to help track employees' wor
    git clone https://github.com/your-username/tracksoft.git
    ```
 2. **Run the Backend:**
-   - Navigate to the `backend` directory.
    - Install Django: `pip install django`
    - Install dependencies: `pip install -r requirements.txt`
    - Run the Django server: `python manage.py runserver`
